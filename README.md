@@ -7,3 +7,4 @@ https://github.com/tsaarni/esp32-micropython-webcam
 
 https://blog.horan.hk/micropythonesp32.html
 
+http://www.lucadentella.it/2016/12/22/esp32-4-flash-bootloader-e-freertos/
